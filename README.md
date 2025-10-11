@@ -6,7 +6,7 @@ This repository was created for CINS 5318 – Software Engineering Assignment #2
 The goal was to get hands-on experience using Git and GitHub for version control, branching, collaboration, and conflict resolution.
 
 
-##Assignment Overview
+## Assignment Overview
 
 The assignment was divided into six parts:
 
@@ -23,7 +23,7 @@ Resolving Merge Conflicts – Simulating and fixing conflicts between main and f
 Documentation & Issues – Writing this README and tracking work through GitHub Issues.
 
 
-##Project Files
+## Project Files
 File	Description
 myCode.py	- Simple Python program used to demonstrate version control.
 README.md	- This document explaining the purpose and process of the assignment.
@@ -37,13 +37,18 @@ cd SE-assignment2
 2. Run the Python script: python myCode.py
 
 
-##What I Learned
+## What I Learned
 
 - Setting up and configuring Git locally.
 - Managing branches and understanding how feature branches isolate changes.
 - Using GitHub to collaborate through pull requests and reviews.
 - Handling merge conflicts manually and learning how Git tracks file differences.
 - Writing clear commit messages and maintaining a clean history.
+
+
+## Known Issues & Enhancements
+- [x] Fixed: Duplicate output issue (#1)
+- [x] Added: User input feature (#2)
 
 
 ##Collaboration
